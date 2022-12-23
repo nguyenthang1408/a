@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "638865036fe19b1233235c8d"
+  },
+  "img": "src/assets/bk1.jpg",
+  "title": "TOUR 3 ĐẢO",
+  "address": "  104, Trần Hưng Đạo, P.Dương Đông, TP.Phú Quốc, T.Kiên Giang",
+  "bookHotel": "false",
+  "numberReview": 2311,
+  "price": 2300000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638865a86fe19b1233235c8e"
+  },
+  "img": "src/assets/bk2.jpg",
+  "title": "TOUR 4 ĐẢO VÀ CÁP TREO",
+  "address": "  104, Trần Hưng Đạo, P.Dương Đông, TP.Phú Quốc, T.Kiên Giang",
+  "bookHotel": "false",
+  "numberReview": 1299,
+  "price": 750000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638865cc6fe19b1233235c8f"
+  },
+  "img": "src/assets/bk3.jpg",
+  "title": "HÒN THƠM 1 CHIỀU",
+  "address": "  121, Trần Hưng Đạo, P.Dương Đông, TP.Phú Quốc, T.Kiên Giang",
+  "bookHotel": "false",
+  "numberReview": 2100,
+  "price": 800000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638865da6fe19b1233235c90"
+  },
+  "img": "src/assets/bk4.jpg",
+  "title": "VÉ SAFARI",
+  "address": "  Bãi Đất Đỏ, Thị Trấn An Thới, TP Phú Quốc, Kiên Giang",
+  "bookHotel": "false",
+  "numberReview": 2122,
+  "price": 900000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638865e96fe19b1233235c91"
+  },
+  "img": "src/assets/bk5.png",
+  "title": "COMBO VINWONDERS & SAFARI",
+  "address": "  Khu Bãi Dài, xã Gành Dầu, Thành Phố Phú Quốc, tỉnh Kiên Giang.",
+  "bookHotel": "false",
+  "numberReview": 3211,
+  "price": 1000000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638866016fe19b1233235c92"
+  },
+  "img": "src/assets/bk6.jpg",
+  "title": "VÉ VINWONDERS",
+  "address": "  Khu Bãi Dài, xã Gành Dầu, Thành Phố Phú Quốc, tỉnh Kiên Giang.",
+  "bookHotel": "false",
+  "numberReview": 2113,
+  "price": 2000000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "63886b286fe19b1233235c94"
+  },
+  "img": "src/assets/ht1.jpg",
+  "title": "M Villas Phu Quoc",
+  "address": "  Sonasea Villas & Resorts, SR08, Đường Bào, Phú Quốc, Kiên Giang",
+  "bookHotel": "true",
+  "numberReview": 1234,
+  "price": 1700000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "63886f746fe19b1233235c96"
+  },
+  "img": "src/assets/ht2.png",
+  "title": "Vinpearl Discovery Coastalland",
+  "address": "  Bãi Dài, Gành Dầu, Phú Quốc",
+  "bookHotel": "true",
+  "numberReview": 2321,
+  "price": 1400000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "6388729b6fe19b1233235c97"
+  },
+  "img": "src/assets/ht3.png",
+  "title": "Vinpearl Discovery Wonderworld",
+  "address": "  Bãi Dài, Gành Dầu, Phú Quốc",
+  "bookHotel": "true",
+  "numberReview": 2321,
+  "price": 1900000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638873686fe19b1233235c98"
+  },
+  "img": "src/assets/ht4.png",
+  "title": "Vinpearl Discovery Greenhill",
+  "address": "  Bãi Dài, Gành Dầu, Phú Quốc",
+  "bookHotel": "true",
+  "numberReview": 1232,
+  "price": 3000000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "6388742b6fe19b1233235c99"
+  },
+  "img": "src/assets/ht5.jpg",
+  "title": "BEST WESTERN PREMIER SONASEA PHÚ QUỐC (VILLA)",
+  "address": "  Đường Bào, Phú Quốc",
+  "bookHotel": "true",
+  "numberReview": 2321,
+  "price": 1988000,
+  "star": "5"
+},{
+  "_id": {
+    "$oid": "638874aa6fe19b1233235c9a"
+  },
+  "img": "src/assets/ht6.png",
+  "title": "Fusion Resort Phú Quốc",
+  "address": "  Vũng Bầu, Cửa Cạn, Phú Quốc, Kiên Giang",
+  "bookHotel": "true",
+  "numberReview": 2311,
+  "price": 2300000,
+  "star": "5"
+}]
